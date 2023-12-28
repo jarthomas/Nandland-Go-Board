@@ -13,5 +13,3 @@ architecture RTL of And_Gate is
 begin 
     o_LED_1 <= i_Switch_1 and i_Switch_2;
 end architecture RTL; 
-
-
