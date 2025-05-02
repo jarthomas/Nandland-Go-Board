@@ -1,3 +1,3 @@
 # Nandland-Go-Board
 Nandland Go Board Projects, Verilog and VHDL implementations
-![Example Output](GoBoard.png)
+![Example Output](GoBoard.jpg)
